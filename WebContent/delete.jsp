@@ -11,14 +11,6 @@
 	response.sendRedirect("./list.jsp");
 %>
 
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
